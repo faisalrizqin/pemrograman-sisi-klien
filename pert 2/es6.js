@@ -10,3 +10,4 @@ const mahasiswaList = [
     { nim: "22002", nama: "Siti Aminah", status: false }
 ];
 
+const { nim, nama } = mahasiswa;
