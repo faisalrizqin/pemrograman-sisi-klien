@@ -1,7 +1,10 @@
-import AdminLayout from "@/Pages/Layouts/AdminLayout";
-import Card from "@/Pages/Layouts/Components/Card";
-import Heading from "@/Pages/Layouts/Components/Heading";
-import Button from "@/Pages/Layouts/Components/Button";
+import AdminLayout from "@/Pages/Admin/AdminLayout";
+import Card from "@/Pages/Admin/Components/Card";
+import Footer from "@/Pages/Admin/Components/Footer";
+import Heading from "@/Pages/Admin/Components/Heading";
+import Header from "@/Pages/Admin/Components/Header";
+import Sidebar from "@/Pages/Admin/Components/Sidebar";
+import Button from "@/Pages/Admin/Components/Button";
 
 const Mahasiswa = () => {
   const handleEdit = (nama) => alert(`Edit data ${nama}`);

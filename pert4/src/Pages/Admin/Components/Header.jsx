@@ -1,4 +1,4 @@
-import Button from "@/Pages/Layouts/Components/Button";
+import Button from "@/Pages/Admin/Components/Button";
 
 const Header = () => {
   const toggleProfileMenu = () => {
