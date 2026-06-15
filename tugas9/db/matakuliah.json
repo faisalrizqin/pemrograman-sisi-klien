@@ -1,0 +1,5 @@
+[
+  { "id": 1, "kode": "A11.44201", "nama": "Pemrograman Sisi Klien", "sks": 3, "semester": 6 },
+  { "id": 2, "kode": "A11.44202", "nama": "Pemrograman Sisi Server", "sks": 3, "semester": 6 },
+  { "id": 3, "kode": "A11.44203", "nama": "Basis Data Lanjut", "sks": 3, "semester": 5 }
+]

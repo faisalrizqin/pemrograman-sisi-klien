@@ -1,0 +1,100 @@
+{
+  "dosen": [
+    {
+      "id": "1",
+      "nidn": "0012345678",
+      "nama": "Dr. Ahmad Wijaya, M.Kom",
+      "prodi": "Teknik Informatika S1"
+    },
+    {
+      "id": "2",
+      "nidn": "0023456789",
+      "nama": "Siti Nurhaliza, S.Kom, M.T",
+      "prodi": "Sistem Informasi"
+    },
+    {
+      "id": "3",
+      "nidn": "0034567890",
+      "nama": "Prof. Bambang Hartono, Ph.D",
+      "prodi": "Teknik Informatika"
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nama": "Andi",
+      "nim": "A11.2020.00001"
+    },
+    {
+      "id": "2",
+      "nama": "Budi",
+      "nim": "A11.2020.00002"
+    }
+  ],
+  "matakuliah": [
+    {
+      "id": "1",
+      "kode": "A11.44201",
+      "nama": "Pemrograman Sisi Klien",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "2",
+      "kode": "A11.44202",
+      "nama": "Pemrograman Sisi Server",
+      "sks": 3,
+      "semester": 6
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Admin 1",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "role": "admin",
+      "permission": [
+        "dashboard.page",
+        "mahasiswa.page",
+        "mahasiswa.read",
+        "mahasiswa.create",
+        "mahasiswa.update",
+        "mahasiswa.delete",
+        "dosen.page",
+        "dosen.read",
+        "dosen.create",
+        "dosen.update",
+        "dosen.delete",
+        "matakuliah.page",
+        "matakuliah.read",
+        "matakuliah.create",
+        "matakuliah.update",
+        "matakuliah.delete"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mahasiswa 1",
+      "email": "mahasiswa@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "name": "Faisal rn",
+      "email": "mhs@mail.com",
+      "password": "admin123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ],
+      "id": "y_vK_eXVKpE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

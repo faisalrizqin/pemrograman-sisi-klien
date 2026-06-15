@@ -1,0 +1,408 @@
+{
+  "chart": {
+    "students": [
+      {
+        "id": 1,
+        "faculty": "Teknik",
+        "count": 320
+      },
+      {
+        "id": 2,
+        "faculty": "Ekonomi",
+        "count": 210
+      },
+      {
+        "id": 3,
+        "faculty": "Kedokteran",
+        "count": 150
+      },
+      {
+        "id": 4,
+        "faculty": "Hukum",
+        "count": 180
+      },
+      {
+        "id": 5,
+        "faculty": "Ilmu Komputer",
+        "count": 260
+      }
+    ],
+    "genderRatio": [
+      {
+        "id": 1,
+        "gender": "Laki-laki",
+        "count": 600
+      },
+      {
+        "id": 2,
+        "gender": "Perempuan",
+        "count": 700
+      }
+    ],
+    "registrations": [
+      {
+        "id": 1,
+        "year": 2020,
+        "total": 500
+      },
+      {
+        "id": 2,
+        "year": 2021,
+        "total": 580
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "total": 640
+      },
+      {
+        "id": 4,
+        "year": 2023,
+        "total": 710
+      }
+    ],
+    "gradeDistribution": [
+      {
+        "subject": "TI",
+        "A": 120,
+        "B": 80,
+        "C": 40
+      },
+      {
+        "subject": "SI",
+        "A": 100,
+        "B": 90,
+        "C": 50
+      },
+      {
+        "subject": "MI",
+        "A": 110,
+        "B": 85,
+        "C": 30
+      }
+    ],
+    "lecturerRanks": [
+      {
+        "rank": "Asisten Ahli",
+        "count": 30
+      },
+      {
+        "rank": "Lektor",
+        "count": 50
+      },
+      {
+        "rank": "Lektor Kepala",
+        "count": 40
+      },
+      {
+        "rank": "Guru Besar",
+        "count": 10
+      }
+    ]
+  },
+  "dosen": [
+    {
+      "id": "1",
+      "nidn": "0012345678",
+      "nama": "Dr. Ahmad Wijaya, M.Kom",
+      "prodi": "Teknik Informatika"
+    },
+    {
+      "id": "2",
+      "nidn": "0023456789",
+      "nama": "Siti Nurhaliza, S.Kom, M.T",
+      "prodi": "Sistem Informasi"
+    },
+    {
+      "id": "3",
+      "nidn": "0034567890",
+      "nama": "Prof. Bambang Hartono, Ph.D",
+      "prodi": "Teknik Informatika"
+    },
+    {
+      "id": "4",
+      "nidn": "0045678901",
+      "nama": "Dian Sastrowardoyo, M.T",
+      "prodi": "Teknik Informatika"
+    },
+    {
+      "id": "5",
+      "nidn": "0056789012",
+      "nama": "Eko Prasetyo, M.Cs",
+      "prodi": "Sistem Informasi"
+    },
+    {
+      "id": "6",
+      "nidn": "0067890123",
+      "nama": "Fitriani, M.Kom",
+      "prodi": "Teknik Informatika"
+    },
+    {
+      "id": "7",
+      "nidn": "0078901234",
+      "nama": "Gatot Subroto, M.T",
+      "prodi": "Sistem Informasi"
+    },
+    {
+      "id": "8",
+      "nidn": "0089012345",
+      "nama": "Hendra Wijaya, Ph.D",
+      "prodi": "Teknik Informatika"
+    },
+    {
+      "id": "9",
+      "nidn": "0090123456",
+      "nama": "Ira Maya Sopha, M.Cs",
+      "prodi": "Teknik Informatika"
+    },
+    {
+      "id": "10",
+      "nidn": "0101234567",
+      "nama": "Joko Widodo, M.Kom",
+      "prodi": "Sistem Informasi"
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nama": "Andi",
+      "nim": "A11.2020.00001"
+    },
+    {
+      "id": "2",
+      "nama": "Budi",
+      "nim": "A11.2020.00002"
+    },
+    {
+      "id": "3",
+      "nama": "Bambang",
+      "nim": "A11.2020.00003"
+    },
+    {
+      "id": "4",
+      "nama": "Chandra",
+      "nim": "A11.2020.00004"
+    },
+    {
+      "id": "5",
+      "nama": "Dewi",
+      "nim": "A11.2020.00005"
+    },
+    {
+      "id": "6",
+      "nama": "Eko",
+      "nim": "A11.2020.00006"
+    },
+    {
+      "id": "7",
+      "nama": "Farhan",
+      "nim": "A11.2020.00007"
+    },
+    {
+      "id": "8",
+      "nama": "Gita",
+      "nim": "A11.2020.00008"
+    },
+    {
+      "id": "9",
+      "nama": "Hadi",
+      "nim": "A11.2020.00009"
+    },
+    {
+      "id": "10",
+      "nama": "Indah",
+      "nim": "A11.2020.00010"
+    },
+    {
+      "id": "11",
+      "nama": "Joko",
+      "nim": "A11.2020.00011"
+    },
+    {
+      "id": "12",
+      "nama": "Kartika",
+      "nim": "A11.2020.00012"
+    }
+  ],
+  "matakuliah": [
+    {
+      "id": "1",
+      "kode": "A11.44201",
+      "nama": "Pemrograman Sisi Klien",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "2",
+      "kode": "A11.44202",
+      "nama": "Pemrograman Sisi Server",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "3",
+      "kode": "A11.44203",
+      "nama": "Basis Data Lanjut",
+      "sks": 3,
+      "semester": 5
+    },
+    {
+      "id": "4",
+      "kode": "A11.44204",
+      "nama": "Kecerdasan Buatan",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "5",
+      "kode": "A11.44205",
+      "nama": "Rekayasa Perangkat Lunak",
+      "sks": 4,
+      "semester": 4
+    },
+    {
+      "id": "6",
+      "kode": "A11.44206",
+      "nama": "Interaksi Manusia dan Komputer",
+      "sks": 2,
+      "semester": 4
+    },
+    {
+      "id": "7",
+      "kode": "A11.44207",
+      "nama": "Keamanan Jaringan",
+      "sks": 3,
+      "semester": 7
+    },
+    {
+      "id": "8",
+      "kode": "A11.44208",
+      "nama": "Kriptografi",
+      "sks": 3,
+      "semester": 7
+    },
+    {
+      "id": "9",
+      "kode": "A11.44209",
+      "nama": "Data Mining",
+      "sks": 3,
+      "semester": 5
+    },
+    {
+      "id": "10",
+      "kode": "A11.44210",
+      "nama": "Sistem Terdistribusi",
+      "sks": 4,
+      "semester": 6
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Admin 1",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "role": "admin",
+      "permission": [
+        "dashboard.page",
+        "mahasiswa.page",
+        "mahasiswa.read",
+        "mahasiswa.create",
+        "mahasiswa.update",
+        "mahasiswa.delete",
+        "dosen.page",
+        "dosen.read",
+        "dosen.create",
+        "dosen.update",
+        "dosen.delete",
+        "matakuliah.page",
+        "matakuliah.read",
+        "matakuliah.create",
+        "matakuliah.update",
+        "matakuliah.delete",
+        "user.page",
+        "user.read",
+        "user.update"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mahasiswa 1",
+      "email": "mahasiswa@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Dosen Wijaya",
+      "email": "wijaya@mail.com",
+      "password": "dosen123",
+      "role": "dosen",
+      "permission": [
+        "dashboard.page",
+        "mahasiswa.read",
+        "dosen.read",
+        "matakuliah.read"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Budi Santoso",
+      "email": "budi@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chandra Kirana",
+      "email": "chandra@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Dewi Sartika",
+      "email": "dewi@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Eko Susilo",
+      "email": "eko@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Farida Utami",
+      "email": "farida@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    }
+  ]
+}

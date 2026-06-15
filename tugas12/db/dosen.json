@@ -1,0 +1,12 @@
+[
+  { "id": "1", "nidn": "0012345678", "nama": "Dr. Ahmad Wijaya, M.Kom", "prodi": "Teknik Informatika" },
+  { "id": "2", "nidn": "0023456789", "nama": "Siti Nurhaliza, S.Kom, M.T", "prodi": "Sistem Informasi" },
+  { "id": "3", "nidn": "0034567890", "nama": "Prof. Bambang Hartono, Ph.D", "prodi": "Teknik Informatika" },
+  { "id": "4", "nidn": "0045678901", "nama": "Dian Sastrowardoyo, M.T", "prodi": "Teknik Informatika" },
+  { "id": "5", "nidn": "0056789012", "nama": "Eko Prasetyo, M.Cs", "prodi": "Sistem Informasi" },
+  { "id": "6", "nidn": "0067890123", "nama": "Fitriani, M.Kom", "prodi": "Teknik Informatika" },
+  { "id": "7", "nidn": "0078901234", "nama": "Gatot Subroto, M.T", "prodi": "Sistem Informasi" },
+  { "id": "8", "nidn": "0089012345", "nama": "Hendra Wijaya, Ph.D", "prodi": "Teknik Informatika" },
+  { "id": "9", "nidn": "0090123456", "nama": "Ira Maya Sopha, M.Cs", "prodi": "Teknik Informatika" },
+  { "id": "10", "nidn": "0101234567", "nama": "Joko Widodo, M.Kom", "prodi": "Sistem Informasi" }
+]

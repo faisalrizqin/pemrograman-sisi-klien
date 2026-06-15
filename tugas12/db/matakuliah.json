@@ -1,0 +1,12 @@
+[
+  { "id": "1", "kode": "A11.44201", "nama": "Pemrograman Sisi Klien", "sks": 3, "semester": 6 },
+  { "id": "2", "kode": "A11.44202", "nama": "Pemrograman Sisi Server", "sks": 3, "semester": 6 },
+  { "id": "3", "kode": "A11.44203", "nama": "Basis Data Lanjut", "sks": 3, "semester": 5 },
+  { "id": "4", "kode": "A11.44204", "nama": "Kecerdasan Buatan", "sks": 3, "semester": 6 },
+  { "id": "5", "kode": "A11.44205", "nama": "Rekayasa Perangkat Lunak", "sks": 4, "semester": 4 },
+  { "id": "6", "kode": "A11.44206", "nama": "Interaksi Manusia dan Komputer", "sks": 2, "semester": 4 },
+  { "id": "7", "kode": "A11.44207", "nama": "Keamanan Jaringan", "sks": 3, "semester": 7 },
+  { "id": "8", "kode": "A11.44208", "nama": "Kriptografi", "sks": 3, "semester": 7 },
+  { "id": "9", "kode": "A11.44209", "nama": "Data Mining", "sks": 3, "semester": 5 },
+  { "id": "10", "kode": "A11.44210", "nama": "Sistem Terdistribusi", "sks": 4, "semester": 6 }
+]
