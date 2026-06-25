@@ -1,0 +1,72 @@
+{
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nama": "Andi",
+      "nim": "A11.2020.00001"
+    },
+    {
+      "id": "2",
+      "nama": "Budi",
+      "nim": "A11.2020.00002"
+    },
+    {
+      "id": "3",
+      "nama": "Citra",
+      "nim": "A11.2020.00003"
+    },
+    {
+      "id": "4",
+      "nama": "Dian",
+      "nim": "A11.2020.00004"
+    },
+    {
+      "id": "5",
+      "nama": "Eko",
+      "nim": "A11.2020.00005"
+    },
+    {
+      "id": "6",
+      "nama": "Faisal",
+      "nim": "A11.2020.00006"
+    },
+    {
+      "id": "7",
+      "nama": "Gita",
+      "nim": "A11.2020.00007"
+    },
+    {
+      "id": "8",
+      "nama": "Hadi",
+      "nim": "A11.2020.00008"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin 1",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "role": "admin",
+      "permission": [
+        "dashboard.page",
+        "mahasiswa.page",
+        "mahasiswa.read",
+        "mahasiswa.create",
+        "mahasiswa.update",
+        "mahasiswa.delete"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mahasiswa 1",
+      "email": "mahasiswa@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "krs.page",
+        "krs.read"
+      ]
+    }
+  ]
+}
